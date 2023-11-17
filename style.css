@@ -52,10 +52,11 @@ body {
     flex: 1;
     margin-right: 10px;
     color: #fff;
+    outline: none;
 }
 
 .btn-generator {
-    background-color: #5c5c5c;
+    background-color: #8a8888;
     color: #fff;
     padding: 10px 20px;
     font-size: 16px;
